@@ -1,0 +1,3 @@
+[submodule "AnimalCare"]
+	path = AnimalCare
+	url = git@github.com:aclijpio/AnimalCare.git
